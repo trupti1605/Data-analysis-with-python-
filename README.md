@@ -1,10 +1,10 @@
 # Data-analysis-with-python-
 
-Introduction 
+### Introduction 
 
 In this project,it contains quizzes and assignment for data analysis for python under coursera.
 
-Following steps are done in this capstone project
+- Following steps are done in this capstone project
 
 1.Importing the dataset 
 
@@ -16,10 +16,10 @@ A)Box plot
 
 B)Regplot
 
-4.Model development 
+4.Model development:-
 
 Linear Regression 
 
-5.Model evaluation and refinement 
+5.Model evaluation and refinement:-
 
 Ridge Regression 
