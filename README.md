@@ -2,7 +2,7 @@
 
 ### Introduction 
 
-In this project,it contains quizzes and assignment for data analysis for python under coursera.
+In this project,we will analyse and predict housing prices using attributes or feature.
 
 - Following steps are done in this capstone project:-
 
